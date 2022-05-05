@@ -1,0 +1,108 @@
+{
+	"games" : [
+		{
+		    "questions" : [
+		        {
+		            "question" : "¿Qué son métricas de software?",
+		            "content" : [
+		                "Es cualquier medida o conjunto de medidas destinadas a conocer o estimar el tamaño u otra característica de un software o un sistema de información",
+						"son tecnicas empleadas a medir el costo de un software",
+						"permite medir la concurrencia de usuarios en un software",
+						"son aquellas que usan los desarrolladores para definir los tiempos de los sprints del desarrollo del software"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "¿Qué es calidad de software?",
+		            "content" : [
+		                "Diseño bonito de la interfaz",
+		                "Buenas practicas de desarrollo backend",
+		                "Aplicacion de clean code",
+						"Características con las que debe cumplir un sistema computacional durante su ciclo de vida"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "¿Qué intención de predecir tienen las métricas de modelo de análisis?",
+		            "content" : [
+		                "Predecir el numero de usuarios que tendra el software",
+		                "Predecir el tamaño de un sistema obtenido a partir de un modelo de análisis",
+		                "Predecir el precio del software en una cantidad x futura de años",
+		                "Predecir las ventas que tendra el software"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "¿Qué tipo de diagrama se usa para visualizar métricas basadas en la función?",
+		            "content" : [
+		                "Diagrama de dispersion",
+						"Diagrama uml ",
+		                "Diagrama de flujo",
+		                "Diagrama de base de datos"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "¿Para qué se emplea una métrica Bang?",
+		            "content" : [
+		                "Permite determinar la complejidad computacional del software",
+		                "Para enviar notificaciones a un servidor en tiempo real acerca del estado del software",
+		                "Desarrollar una indicación del tamaño del software a implementar como consecuencia del modelo de análisis",
+		                "Permite analizar las clases de un software para determinar la cantidad de lineas de codigo"
+		            ],
+		            "correct" : 2
+		        },
+				{
+					"question": "¿Qué énfasis tienen las métricas del diseño arquitectónico?",
+				    "content": [
+				        "Estructura arquitectónica",
+				        "Estructura algoritmica",
+				        "Escructura logica",
+				        "Estructura organizacional"
+				    ],
+					"correct": 0
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "10Cs",
+				        "2Cs",
+				        "3Cs",
+				        "20Cs"
+				    ],
+				    "question": "¿Qué medida incluyen las métricas de diseño a nivel de componentes?"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "Se centra en, toma de decisiones entre muchas variables",
+				        "verifica un conjunto de echos difusos",
+				        "tecnica para encontrar la probabilidad en echos difusos",
+				        "Ninguna de las anteriores"
+				    ],
+				    "question": "¿Qué es Lógica Difusa?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Ninguna de las anteriores",
+				        "Modelo Matematico para medir la complejidad de un software",
+				        "Modelo estadistico para toma de decisiones",
+				        "Modelo Matemático De Base emperica"
+				    ],
+				    "question": "¿Qué es COCOMO?"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "Duración De Proyectos de software",
+				        "Duracion del sprint del proyecto",
+				        "Duracion de ejecucion de una funcion del software",
+				        "Ninguna de las anteriores"
+				    ],
+				    "question": "¿Que permite estimar el modelo construcción de costos?"
+				}
+		    ]
+		}
+	]
+}
